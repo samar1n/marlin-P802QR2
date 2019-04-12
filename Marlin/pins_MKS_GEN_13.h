@@ -51,7 +51,7 @@
   #define PS_ON_PIN        4
 #endif
 
-#include "pins_RAMPS.h"
+#include "pins_ZRIB.h"
 
 //
 // LCD / Controller
